@@ -1,0 +1,6 @@
+yfinance 
+streamlit==0.74.1
+pandas_datareader 
+cryptocmd 
+datetime 
+plotly
